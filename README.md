@@ -1,1 +1,1 @@
-此代码是基于koa2的，与my-react-app配合的服务端项目。
+此代码是基于koa2的，与my-react-app配合的服务端项目。是基于node 8运行的。
